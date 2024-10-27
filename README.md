@@ -44,6 +44,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venumurala91/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Venumurala91/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Venumurala91/Leetcode-/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venumurala91/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Venumurala91/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
