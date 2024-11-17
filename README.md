@@ -46,6 +46,7 @@
 | [0027-remove-element](https://github.com/Venumurala91/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Venumurala91/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Venumurala91/Leetcode-/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Venumurala91/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
@@ -83,6 +84,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Venumurala91/Leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Venumurala91/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Venumurala91/Leetcode-/tree/master/0125-valid-palindrome) |
 ## Counting
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Venumurala91/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
