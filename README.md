@@ -68,6 +68,7 @@
 | [0001-two-sum](https://github.com/Venumurala91/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venumurala91/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Venumurala91/Leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Venumurala91/Leetcode-/tree/master/0242-valid-anagram) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
@@ -83,6 +84,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Venumurala91/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Venumurala91/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Venumurala91/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Venumurala91/Leetcode-/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Venumurala91/Leetcode-/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
