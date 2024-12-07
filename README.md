@@ -60,6 +60,7 @@
 | [0066-plus-one](https://github.com/Venumurala91/Leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Venumurala91/Leetcode-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Venumurala91/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
@@ -67,6 +68,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Venumurala91/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venumurala91/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Venumurala91/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Venumurala91/Leetcode-/tree/master/0242-valid-anagram) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -104,6 +106,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Venumurala91/Leetcode-/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -131,4 +135,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Venumurala91/Leetcode-/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
