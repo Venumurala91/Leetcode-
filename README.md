@@ -59,6 +59,7 @@
 | [0035-search-insert-position](https://github.com/Venumurala91/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Venumurala91/Leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Venumurala91/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Venumurala91/Leetcode-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Venumurala91/Leetcode-/tree/master/0219-contains-duplicate-ii) |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Venumurala91/Leetcode-/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
