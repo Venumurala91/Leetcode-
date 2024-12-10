@@ -58,6 +58,7 @@
 | [0027-remove-element](https://github.com/Venumurala91/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Venumurala91/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Venumurala91/Leetcode-/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Venumurala91/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Venumurala91/Leetcode-/tree/master/0136-single-number) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Venumurala91/Leetcode-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Venumurala91/Leetcode-/tree/master/0118-pascals-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
