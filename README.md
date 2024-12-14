@@ -65,6 +65,7 @@
 | [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Venumurala91/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Venumurala91/Leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
@@ -77,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/Venumurala91/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Venumurala91/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Venumurala91/Leetcode-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
@@ -85,6 +87,7 @@
 | [0009-palindrome-number](https://github.com/Venumurala91/Leetcode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Venumurala91/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Venumurala91/Leetcode-/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Venumurala91/Leetcode-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -142,6 +146,7 @@
 | [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Venumurala91/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Venumurala91/Leetcode-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -151,6 +156,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Venumurala91/Leetcode-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
