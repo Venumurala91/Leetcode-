@@ -68,6 +68,7 @@
 | [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Venumurala91/Leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Venumurala91/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Venumurala91/Leetcode-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Venumurala91/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
