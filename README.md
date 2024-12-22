@@ -69,6 +69,7 @@
 | [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Venumurala91/Leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Venumurala91/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
@@ -121,6 +122,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0242-valid-anagram](https://github.com/Venumurala91/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -185,4 +188,9 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
