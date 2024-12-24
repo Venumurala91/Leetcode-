@@ -89,6 +89,7 @@
 | [0389-find-the-difference](https://github.com/Venumurala91/Leetcode-/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Venumurala91/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Venumurala91/Leetcode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0290-word-pattern](https://github.com/Venumurala91/Leetcode-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Venumurala91/Leetcode-/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Venumurala91/Leetcode-/tree/master/0389-find-the-difference) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Venumurala91/Leetcode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Venumurala91/Leetcode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
