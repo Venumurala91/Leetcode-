@@ -58,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Venumurala91/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Venumurala91/Leetcode-/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Venumurala91/Leetcode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
@@ -186,10 +187,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Venumurala91/Leetcode-/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Venumurala91/Leetcode-/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
