@@ -114,6 +114,7 @@
 | [0014-longest-common-prefix](https://github.com/Venumurala91/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Venumurala91/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Venumurala91/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/Venumurala91/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Venumurala91/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Venumurala91/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Venumurala91/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venumurala91/Leetcode-/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Venumurala91/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Venumurala91/Leetcode-/tree/master/0118-pascals-triangle) |
 ## Matrix
@@ -220,4 +222,9 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Venumurala91/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Venumurala91/Leetcode-/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Venumurala91/Leetcode-/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
