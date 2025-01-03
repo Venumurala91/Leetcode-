@@ -73,6 +73,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Venumurala91/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Venumurala91/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Venumurala91/Leetcode-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
@@ -198,6 +199,7 @@
 | [0136-single-number](https://github.com/Venumurala91/Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Venumurala91/Leetcode-/tree/master/0389-find-the-difference) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/1435-xor-queries-of-a-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,4 +231,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Venumurala91/Leetcode-/tree/master/0044-wildcard-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
