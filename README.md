@@ -59,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Venumurala91/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Venumurala91/Leetcode-/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Venumurala91/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Venumurala91/Leetcode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Venumurala91/Leetcode-/tree/master/0074-search-a-2d-matrix) |
@@ -150,6 +151,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Venumurala91/Leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Venumurala91/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Venumurala91/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Venumurala91/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Venumurala91/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Venumurala91/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Venumurala91/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Venumurala91/Leetcode-/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venumurala91/Leetcode-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Venumurala91/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Venumurala91/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Venumurala91/Leetcode-/tree/master/0118-pascals-triangle) |
@@ -236,4 +240,8 @@
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/1435-xor-queries-of-a-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Venumurala91/Leetcode-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
