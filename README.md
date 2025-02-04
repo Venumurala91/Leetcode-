@@ -106,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/Venumurala91/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Venumurala91/Leetcode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Venumurala91/Leetcode-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Venumurala91/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Venumurala91/Leetcode-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Venumurala91/Leetcode-/tree/master/0268-missing-number) |
 ## String
@@ -218,6 +219,7 @@
 | [0042-trapping-rain-water](https://github.com/Venumurala91/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Venumurala91/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Venumurala91/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Venumurala91/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Venumurala91/Leetcode-/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
@@ -265,4 +267,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Venumurala91/Leetcode-/tree/master/0100-same-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Venumurala91/Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
